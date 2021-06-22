@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/detehuongquoc/React-Ecommerce/static/css/main.e535a505.chunk.css",
+    "main.js": "/detehuongquoc/React-Ecommerce/static/js/main.6a64d64f.chunk.js",
+    "main.js.map": "/detehuongquoc/React-Ecommerce/static/js/main.6a64d64f.chunk.js.map",
+    "runtime-main.js": "/detehuongquoc/React-Ecommerce/static/js/runtime-main.bc096971.js",
+    "runtime-main.js.map": "/detehuongquoc/React-Ecommerce/static/js/runtime-main.bc096971.js.map",
+    "static/css/2.e906d9de.chunk.css": "/detehuongquoc/React-Ecommerce/static/css/2.e906d9de.chunk.css",
+    "static/js/2.81da1aa6.chunk.js": "/detehuongquoc/React-Ecommerce/static/js/2.81da1aa6.chunk.js",
+    "static/js/2.81da1aa6.chunk.js.map": "/detehuongquoc/React-Ecommerce/static/js/2.81da1aa6.chunk.js.map",
+    "index.html": "/detehuongquoc/React-Ecommerce/index.html",
+    "static/css/2.e906d9de.chunk.css.map": "/detehuongquoc/React-Ecommerce/static/css/2.e906d9de.chunk.css.map",
+    "static/css/main.e535a505.chunk.css.map": "/detehuongquoc/React-Ecommerce/static/css/main.e535a505.chunk.css.map",
+    "static/js/2.81da1aa6.chunk.js.LICENSE.txt": "/detehuongquoc/React-Ecommerce/static/js/2.81da1aa6.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/detehuongquoc/React-Ecommerce/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc096971.js",
+    "static/css/2.e906d9de.chunk.css",
+    "static/js/2.81da1aa6.chunk.js",
+    "static/css/main.e535a505.chunk.css",
+    "static/js/main.6a64d64f.chunk.js"
+  ]
+}
